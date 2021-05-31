@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/AC_Projects/project/SimpleComputer/Decoder_3_8_isim_beh.exe" -prj "D:/AC_Projects/project/SimpleComputer/Decoder_3_8_beh.prj" "work.Decoder_3_8" 

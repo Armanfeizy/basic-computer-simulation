@@ -1,0 +1,4 @@
+vhdl isim_temp "T_FF.vhd"
+vhdl isim_temp "SequenceCounter.vhd"
+vhdl isim_temp "Decoder_4_16.vhd"
+vhdl isim_temp "TimeUnit.vhd"
